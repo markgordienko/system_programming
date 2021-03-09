@@ -1,4 +1,3 @@
-bin/bash
 echo "___Package Manager___"
 echo "This script will check if wanted repo is installed and install it"
 echo "made be Mark Gordienko 737-1"
